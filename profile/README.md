@@ -26,6 +26,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Wolfenstein 3D][Wolfenstein 3D]                                   | 1992/05 |   PC, C/ASM    |      id Software      |                                       [Wolf4SDL][Wolf4SDL]                                        |
 | [Hägar The Horrible][Hägar The Horrible]                           |  1992   |    C64, ASM    |     Kingsoft GmbH     |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |   PC, C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
+| [Doom][Doom]                                                     | 1993/12 |     PC, C      |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC, ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
 | [Little Big Adventure][Little Big Adventure]                       | 1994/10 |    PC, ASM     | Adeline Software Int. |                                                                                                   |
 | [Pinball Fantasies][Pinball Fantasies]                             |  1994   |    PC, ASM     |   FrontLine Design    |                                                                                                   |
@@ -34,6 +35,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Witchaven][Witchaven]                                             | 1995/09 |   PC, C/ASM    |   Capstone Software   |                                                                                                   |
 | [Duke Nukem 3D][Duke Nukem 3D]                                     | 1996/01 |   PC, C/ASM    |       3D Realms       | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
 | [Witchaven II][Witchaven II]                                       | 1996/05 |   PC, C/ASM    |   Capstone Software   |                                                                                                   |
+| [Quake][Quake]                                                   | 1996/06 |   PC, C/ASM    |      id Software      |                                 [Chocolate Quake][Chocolate Quake]                                |
 | [In Pursuit of Greed][In Pursuit of Greed]                         |  1996   |   PC, C/ASM    |  Mind Shear Software  |                                                                                                   |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC, ASM     | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |   PC, C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
@@ -58,6 +60,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Wolfenstein 3D]: https://github.com/commercial-game-sources/wolfenstein_3d
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
+[Doom]: https://github.com/commercial-game-sources/doom
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
 [Little Big Adventure]: https://github.com/commercial-game-sources/little_big_adventure
 [Pinball Fantasies]: https://github.com/commercial-game-sources/pinball_fantasies
@@ -66,6 +69,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Witchaven]: https://github.com/commercial-game-sources/witchaven.git
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
 [Witchaven II]: https://github.com/commercial-game-sources/witchaven_ii.git
+[Quake]: https://github.com/commercial-game-sources/quake
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Little Big Adventure 2]: https://github.com/commercial-game-sources/little_big_adventure_2
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
@@ -80,7 +84,9 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
 [BStone]: https://github.com/bibendovsky/bstone
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
+[Chocolate Doom]: https://github.com/chocolate-doom/chocolate-doom
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
+[Chocolate Quake]: https://github.com/Henrique194/chocolate-quake
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
 [ForsakenX]: https://github.com/ForsakenX/forsaken
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
