@@ -4,12 +4,16 @@ Source code of some commercial games, with useful information.
 
 ## Content
 
+Game-name links lead to the source archives; convenient ports are listed separately.
+
 The ports list includes those who are updated to make the project easier to understand/build, while being faithful to the original; ports adding/changing signficant features are generally not included.
 
 | Name                                                               |  Year   |  Platf./Lang.  |       Developer       |                                              Port(s)                                              |
 | ------------------------------------------------------------------ | :-----: | :------------: | :-------------------: | :-----------------------------------------------------------------------------------------------: |
 | [Rogue][Rogue]                                                     |  1980   |   PC, C/ASM    |      A.I. Design      |                                        [ROGUEPC][ROGUEPC]                                         |
 | Digger                                                             |  1983   |       ?        |   Windmill Software   |                              [Digger Remastered][Digger Remastered]                               |
+| [Willy the Worm][Willy the Worm]                                   | 1985/06 |   PC, Pascal   |      Alan Farmer      |                                                                                                   |
+| [Leisure Suit Larry in the Land of the Lounge Lizards]             | 1987/06 |    PC, AGI     |    Sierra On-Line     |                                                                                                   |
 | [Double Dragon II][Double Dragon II]                               |  1989   |    PC, ASM     |     Binary Design     |                                                                                                   |
 | [Catacomb][Catacomb]                                               |  1990   | PC, Pascal/ASM |       Softdisk        |                                                                                                   |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1990   |   PC, C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
@@ -40,6 +44,8 @@ The ports list includes those who are updated to make the project easier to unde
 <!-- Sources; keep in the same order as the table -->
 
 [Rogue]: https://github.com/commercial-game-sources/rogue
+[Willy the Worm]: https://github.com/commercial-game-sources/willy_the_worm
+[Leisure Suit Larry in the Land of the Lounge Lizards]: https://github.com/commercial-game-sources/leisure_suit_larry_in_the_land_of_the_lounge_lizards
 [Double Dragon II]: https://github.com/commercial-game-sources/double_dragon_ii
 [Catacomb]: https://github.com/commercial-game-sources/catacomb
 [Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
