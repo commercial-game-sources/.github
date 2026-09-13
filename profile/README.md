@@ -8,15 +8,17 @@ Game-name links lead to the source archives; convenient ports are listed separat
 
 The ports list includes those who are updated to make the project easier to understand/build, while being faithful to the original; ports adding/changing signficant features are generally not included.
 
-| Name                                                               |  Year   |  Platf./Lang.  |       Developer       |                                              Port(s)                                              |
+Release dates refer to the listed platform and use `YYYY/MM` where the month is documented, or `YYYY` otherwise.
+
+| Name                                                               | Release date |  Platf./Lang.  |       Developer       |                                              Port(s)                                              |
 | ------------------------------------------------------------------ | :-----: | :------------: | :-------------------: | :-----------------------------------------------------------------------------------------------: |
-| [Rogue][Rogue]                                                     |  1980   |   PC, C/ASM    |      A.I. Design      |                                        [ROGUEPC][ROGUEPC]                                         |
+| [Rogue][Rogue]                                                     |  1983   |   PC, C/ASM    |      A.I. Design      |                                        [ROGUEPC][ROGUEPC]                                         |
 | Digger                                                             |  1983   |       ?        |   Windmill Software   |                              [Digger Remastered][Digger Remastered]                               |
 | [Willy the Worm][Willy the Worm]                                   | 1985/06 |   PC, Pascal   |      Alan Farmer      |                                                                                                   |
 | [Leisure Suit Larry in the Land of the Lounge Lizards]             | 1987/06 |    PC, AGI     |    Sierra On-Line     |                                                                                                   |
 | [Double Dragon II: The Revenge][Double Dragon II: The Revenge]     |  1989   |    PC, ASM     |     Binary Design     |                                                                                                   |
 | [Catacomb][Catacomb]                                               |  1990   | PC, Pascal/ASM |       Softdisk        |                                                                                                   |
-| [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1990   |   PC, C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
+| [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1991   |   PC, C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
 | [Hovertank 3D][Hovertank 3D]                                       | 1991/04 |   PC, C/ASM    |      id Software      |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams]     |  1991   |   PC, C/ASM    |      id Software      |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
 | [Catacomb 3-D][Catacomb 3-D]                                       | 1991/11 |   PC, C/ASM    |      id Software      |                             [Reflection Catacomb 3-D][ReflectionHLE]                              |
@@ -24,8 +26,8 @@ The ports list includes those who are updated to make the project easier to unde
 | [Wolfenstein 3D][Wolfenstein 3D]                                   | 1992/05 |   PC, C/ASM    |      id Software      |                                       [Wolf4SDL][Wolf4SDL]                                        |
 | [Hägar The Horrible][Hägar The Horrible]                           |  1992   |    C64, ASM    |     Kingsoft GmbH     |                                                                                                   |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |   PC, C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
-| [Beneath a Steel Sky][Beneath a Steel Sky]                         |  1994   |    PC, ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
-| [Little Big Adventure][Little Big Adventure]                       |  1994   |    PC, ASM     | Adeline Software Int. |                                                                                                   |
+| [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC, ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
+| [Little Big Adventure][Little Big Adventure]                       | 1994/10 |    PC, ASM     | Adeline Software Int. |                                                                                                   |
 | [Pinball Fantasies][Pinball Fantasies]                             |  1994   |    PC, ASM     |   FrontLine Design    |                                                                                                   |
 | [Blake Stone: Planet Strike][Blake Stone: Planet Strike]           | 1994/10 |   PC, C/ASM    |    JAM Productions    |                          [BStone](https://github.com/bibendovsky/bstone)                          |
 | [Rise of the Triad][Rise of the Triad]                             | 1994/12 |   PC, C/ASM    |       3D Realms       |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
@@ -35,7 +37,7 @@ The ports list includes those who are updated to make the project easier to unde
 | [In Pursuit of Greed][In Pursuit of Greed]                         |  1996   |   PC, C/ASM    |  Mind Shear Software  |                                                                                                   |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC, ASM     | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |   PC, C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
-| [Forsaken][Forsaken]                                               |  1998   |   PC, C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
+| [Forsaken][Forsaken]                                               | 1998/04 |   PC, C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
 | [Penumbra Overture][Penumbra Overture]                             | 2007/03 |    PC, C++     |   Frictional Games    |                                                                                                   |
 | [S.T.A.L.K.E.R.: Call of Pripyat][S.T.A.L.K.E.R.: Call of Pripyat] | 2009/10 |    PC, C++     |    GSC Game World     |                                       [OpenXRay][OpenXRay]                                        |
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC, C++     |   Frictional Games    |                                                                                                   |
