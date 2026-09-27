@@ -4,7 +4,9 @@ Source code of some commercial games, with useful information.
 
 ## Content
 
-Game-name links lead to original source archives; convenient ports are listed separately. Reconstructions have unlinked game names and `(reconstruction)` after the original platform, with project links in the Port(s) column. Their Language entries describe the reconstruction.
+Game-name links lead to original source archives; convenient ports are listed separately.
+
+Reconstructed or recreated games have unlinked titles and a marker after the original platform: `(reconstruction)` for source recovered through reverse engineering, `(reimplementation)` for a replacement engine reproducing the game, and `(remake)` for a recreation with substantial gameplay or presentation changes. The marker and Language entry describe the main project linked in the Port(s) column.
 
 The ports list includes those who are updated to make the project easier to understand/build, while being faithful to the original; ports adding/changing signficant features are generally not included.
 
@@ -31,10 +33,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Wolfenstein 3D][Wolfenstein 3D]                                   | 1992/05 |    PC    |   C/ASM    |      id Software      |                                       [Wolf4SDL][Wolf4SDL]                                        |
 | [Hägar The Horrible][Hägar The Horrible]                           |  1992   |   C64    |    ASM     |     Kingsoft GmbH     |                                                                                                   |
 | [Alien 3][Alien 3]                                                 |  1992   |   C64    |    ASM     |    Probe Software     |                                                                                                 |
-| Another World | 1992 | PC (reconstruction) | C++ | Delphine Software | [rawgl][rawgl] |
-| Dune II | 1992/12 | PC (reconstruction) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
+| Another World | 1992 | PC (reimplementation) | C++ | Delphine Software | [rawgl][rawgl] |
+| Dune II | 1992/12 | PC (reimplementation) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
-| Flashback | 1993 | PC (reconstruction) | C++ | Delphine Software | [REminiscence][REminiscence] |
+| Flashback | 1993 | PC (reimplementation) | C++ | Delphine Software | [REminiscence][REminiscence] |
 | Duke Nukem II | 1993/12 | PC (reconstruction) | C/ASM | Apogee Software | [Duke2Reconstructed][Duke2Reconstructed]<br/>[RigelEngine][RigelEngine] |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC    |    ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
@@ -55,7 +57,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Diablo | 1996/12 | PC (reconstruction) | C++ | Blizzard North | [Devilution][Devilution]<br/>[DevilutionX][DevilutionX] |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    |  C++/ASM   | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
-| Dungeon Keeper | 1997/06 | PC (reconstruction) | C/C++ | Bullfrog Productions | [KeeperFX][KeeperFX] |
+| Dungeon Keeper | 1997/06 | PC (remake) | C/C++ | Bullfrog Productions | [KeeperFX][KeeperFX] |
 | [Quake II][Quake II]                                               | 1997/12 |    PC    |   C/ASM    |      id Software      |                               [Yamagi Quake II][Yamagi Quake II]                                |
 | [Forsaken][Forsaken]                                               | 1998/04 |    PC    |   C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
 | [Quake III Arena][Quake III Arena] | 1999/12 | PC | C/ASM | id Software | [ioquake3][ioquake3] |
@@ -119,7 +121,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
 [Amnesia: A Machine For Pigs]: https://github.com/commercial-game-sources/amnesia_a_machine_for_pigs
 
-<!-- Convenient ports and reconstructions; keep in alphabetic order -->
+<!-- Convenient ports, reconstructions, reimplementations and remakes; keep in alphabetic order -->
 
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
 [BStone]: https://github.com/bibendovsky/bstone
