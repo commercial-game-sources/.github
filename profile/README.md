@@ -52,6 +52,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Heretic][Heretic]                                                 | 1994/12 |    PC    |   C/ASM    |    Raven Software     |                               [Chocolate Heretic][Chocolate Doom]                               |
 | [Descent][Descent]                                                 | 1995/03 |    PC    |   C/ASM    |   Parallax Software   |                                   [DXX-Rebirth][DXX-Rebirth]                                    |
 | [Witchaven][Witchaven]                                             | 1995/09 |    PC    |   C/ASM    |   Capstone Software   |                                                                                                   |
+| Tyrian | 1995/09 | PC (source-derived port) | C | Eclipse Software | [OpenTyrian][OpenTyrian] |
 | [Hexen: Beyond Heretic][Hexen: Beyond Heretic]                     | 1995/10 |    PC    |   C/ASM    |    Raven Software     |                                [Chocolate Hexen][Chocolate Doom]                                |
 | [Duke Nukem 3D][Duke Nukem 3D]                                     | 1996/01 |    PC    |   C/ASM    |       3D Realms       | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
 | [Descent II][Descent II]                                           | 1996/03 |    PC    |   C/ASM    |   Parallax Software   |                                   [DXX-Rebirth][DXX-Rebirth]                                    |
@@ -78,6 +79,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Thirty Flights of Loving][Thirty Flights of Loving] | 2012/08 | PC | C/ASM | Blendo Games | |
 | [Doom 3: BFG Edition][Doom 3: BFG Edition] | 2012/10 | PC | C++/ASM | id Software | |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
+
+Tyrian is represented by OpenTyrian, a C translation of the original Pascal/assembly source licensed to the port developers; the original source is not publicly released.
+
+<!-- OpenTyrian provenance: https://github.com/opentyrian/opentyrian/wiki/FAQ -->
 
 SimCity is represented by the Unix/X11 source lineage released as Micropolis; its Language entry refers to the historical C/Tcl version. MicropolisCore is the later C++ refactoring.
 
@@ -167,6 +172,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [NBlood]: https://github.com/commercial-game-sources/nblood
 [OpenDUNE]: https://github.com/commercial-game-sources/opendune
 [OpenJazz]: https://github.com/commercial-game-sources/openjazz
+[OpenTyrian]: https://github.com/commercial-game-sources/opentyrian
 [OpenXRay]: https://github.com/OpenXRay/xray-16
 [rawgl]: https://github.com/commercial-game-sources/rawgl
 [ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
