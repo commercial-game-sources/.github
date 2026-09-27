@@ -55,6 +55,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Diablo | 1996/12 | PC (reconstruction) | C++ | Blizzard North | [Devilution][Devilution]<br/>[DevilutionX][DevilutionX] |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    |  C++/ASM   | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
+| Dungeon Keeper | 1997/06 | PC (reconstruction) | C/C++ | Bullfrog Productions | [KeeperFX][KeeperFX] |
 | [Quake II][Quake II]                                               | 1997/12 |    PC    |   C/ASM    |      id Software      |                               [Yamagi Quake II][Yamagi Quake II]                                |
 | [Forsaken][Forsaken]                                               | 1998/04 |    PC    |   C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
 | [Quake III Arena][Quake III Arena] | 1999/12 | PC | C/ASM | id Software | [ioquake3][ioquake3] |
@@ -138,6 +139,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
+[KeeperFX]: https://github.com/commercial-game-sources/keeperfx
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
 [OpenDUNE]: https://github.com/commercial-game-sources/opendune
 [OpenXRay]: https://github.com/OpenXRay/xray-16
