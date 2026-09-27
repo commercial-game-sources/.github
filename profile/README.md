@@ -17,9 +17,11 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Willy the Worm][Willy the Worm]                                   | 1985/06 |    PC    |   Pascal   |      Alan Farmer      |                                                                                                   |
 | [Elite][Elite]                                                     |  1985   |   C64    |    ASM     | Ian Bell / David Braben |                                                                                                 |
 | [Leisure Suit Larry in the Land of the Lounge Lizards]             | 1987/06 |    PC    |    AGI     |    Sierra On-Line     |                                                                                                   |
+| [Rampage][Rampage]                                                 |  1987   |   C64    |    ASM     |      Activision       |                                                                                                 |
 | [Double Dragon II: The Revenge][Double Dragon II: The Revenge]     |  1989   |    PC    |    ASM     |     Binary Design     |                                                                                                   |
 | [Altered Beast][Altered Beast]                                     |  1989   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
 | [Catacomb][Catacomb]                                               |  1990   |    PC    | Pascal/ASM |       Softdisk        |                                                                                                   |
+| [Atomic Robo-Kid][Atomic Robo-Kid]                                 |  1990   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1991   |    PC    |   C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
 | [Hovertank 3D][Hovertank 3D]                                       | 1991/04 |    PC    |   C/ASM    |      id Software      |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams]     |  1991   |    PC    |   C/ASM    |      id Software      |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
@@ -27,6 +29,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Eye of the Beholder II][Eye of the Beholder II]                   | 1991/12 |    PC    |   C/ASM    |  Westwood Associates  |                                                                                                   |
 | [Wolfenstein 3D][Wolfenstein 3D]                                   | 1992/05 |    PC    |   C/ASM    |      id Software      |                                       [Wolf4SDL][Wolf4SDL]                                        |
 | [Hägar The Horrible][Hägar The Horrible]                           |  1992   |   C64    |    ASM     |     Kingsoft GmbH     |                                                                                                   |
+| [Alien 3][Alien 3]                                                 |  1992   |   C64    |    ASM     |    Probe Software     |                                                                                                 |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC    |    ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
@@ -34,17 +37,24 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Pinball Fantasies][Pinball Fantasies]                             |  1994   |    PC    |    ASM     |   FrontLine Design    |                                                                                                   |
 | [Blake Stone: Planet Strike][Blake Stone: Planet Strike]           | 1994/10 |    PC    |   C/ASM    |    JAM Productions    |                          [BStone](https://github.com/bibendovsky/bstone)                          |
 | [Rise of the Triad][Rise of the Triad]                             | 1994/12 |    PC    |   C/ASM    |       3D Realms       |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
+| [Heretic][Heretic]                                                 | 1994/12 |    PC    |   C/ASM    |    Raven Software     |                               [Chocolate Heretic][Chocolate Doom]                               |
+| [Descent][Descent]                                                 | 1995/03 |    PC    |   C/ASM    |   Parallax Software   |                                   [DXX-Rebirth][DXX-Rebirth]                                    |
 | [Witchaven][Witchaven]                                             | 1995/09 |    PC    |   C/ASM    |   Capstone Software   |                                                                                                   |
+| [Hexen: Beyond Heretic][Hexen: Beyond Heretic]                     | 1995/10 |    PC    |   C/ASM    |    Raven Software     |                                [Chocolate Hexen][Chocolate Doom]                                |
 | [Duke Nukem 3D][Duke Nukem 3D]                                     | 1996/01 |    PC    |   C/ASM    |       3D Realms       | [Chocolate Duke3D][Chocolate Duke3D]<br/>[JonoF's Duke Nukem 3D Port][JonoF's Duke Nukem 3D Port] |
+| [Descent II][Descent II]                                           | 1996/03 |    PC    |   C/ASM    |   Parallax Software   |                                   [DXX-Rebirth][DXX-Rebirth]                                    |
 | [Witchaven II][Witchaven II]                                       | 1996/05 |    PC    |   C/ASM    |   Capstone Software   |                                                                                                   |
 | [Quake][Quake]                                                   | 1996/06 |    PC    |   C/ASM    |      id Software      |                                 [Chocolate Quake][Chocolate Quake]                                |
 | [Command & Conquer: Red Alert][Command & Conquer: Red Alert] | 1996/11 | PC | C++/ASM | Westwood Studios | [Vanilla Conquer][Vanilla Conquer] |
 | [In Pursuit of Greed][In Pursuit of Greed]                         |  1996   |    PC    |   C/ASM    |  Mind Shear Software  |                                                                                                   |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    |  C++/ASM   | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
+| [Quake II][Quake II]                                               | 1997/12 |    PC    |   C/ASM    |      id Software      |                               [Yamagi Quake II][Yamagi Quake II]                                |
 | [Forsaken][Forsaken]                                               | 1998/04 |    PC    |   C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
 | [Quake III Arena][Quake III Arena] | 1999/12 | PC | C/ASM | id Software | [ioquake3][ioquake3] |
+| [Serious Sam: The First Encounter][Serious Sam: The First Encounter] | 2001/03 |    PC    |  C++/ASM   |        Croteam        |                      [Serious Engine (icculus)][Serious Engine (icculus)]                       |
 | [Return to Castle Wolfenstein][Return to Castle Wolfenstein]<br/>[Multiplayer source][RTCW Multiplayer] | 2001/11 | PC | C/ASM | Gray Matter Interactive / Nerve Software | [iortcw][iortcw] |
+| [Serious Sam: The Second Encounter][Serious Sam: The Second Encounter] | 2002/02 |    PC    |  C++/ASM   |        Croteam        |                      [Serious Engine (icculus)][Serious Engine (icculus)]                       |
 | [Doom 3][Doom 3]                                                 | 2004/08 |    PC    |  C++/ASM   |      id Software      |                                        [dhewm3][dhewm3]                                          |
 | [Penumbra Overture][Penumbra Overture]                             | 2007/03 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [S.T.A.L.K.E.R.: Call of Pripyat][S.T.A.L.K.E.R.: Call of Pripyat] | 2009/10 |    PC    |    C++     |    GSC Game World     |                                       [OpenXRay][OpenXRay]                                        |
@@ -57,9 +67,11 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Willy the Worm]: https://github.com/commercial-game-sources/willy_the_worm
 [Elite]: https://github.com/commercial-game-sources/elite
 [Leisure Suit Larry in the Land of the Lounge Lizards]: https://github.com/commercial-game-sources/leisure_suit_larry_in_the_land_of_the_lounge_lizards
+[Rampage]: https://github.com/commercial-game-sources/rampage
 [Double Dragon II: The Revenge]: https://github.com/commercial-game-sources/double_dragon_ii
 [Altered Beast]: https://github.com/commercial-game-sources/altered_beast
 [Catacomb]: https://github.com/commercial-game-sources/catacomb
+[Atomic Robo-Kid]: https://github.com/commercial-game-sources/atomic_robo_kid
 [Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
 [Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
@@ -67,6 +79,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Eye of the Beholder II]: https://github.com/commercial-game-sources/eye_of_the_beholder_ii
 [Wolfenstein 3D]: https://github.com/commercial-game-sources/wolfenstein_3d
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
+[Alien 3]: https://github.com/commercial-game-sources/alien_3
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
 [Doom]: https://github.com/commercial-game-sources/doom
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
@@ -74,18 +87,25 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Pinball Fantasies]: https://github.com/commercial-game-sources/pinball_fantasies
 [Blake Stone: Planet Strike]: https://github.com/commercial-game-sources/blake_stone
 [Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
+[Heretic]: https://github.com/commercial-game-sources/heretic
+[Descent]: https://github.com/commercial-game-sources/descent
 [Witchaven]: https://github.com/commercial-game-sources/witchaven.git
+[Hexen: Beyond Heretic]: https://github.com/commercial-game-sources/hexen
 [Duke Nukem 3D]: https://github.com/commercial-game-sources/duke_nukem_3d
+[Descent II]: https://github.com/commercial-game-sources/descent_ii
 [Witchaven II]: https://github.com/commercial-game-sources/witchaven_ii.git
 [Quake]: https://github.com/commercial-game-sources/quake
 [Command & Conquer: Red Alert]: https://github.com/commercial-game-sources/command_and_conquer_red_alert
 [In Pursuit of Greed]: https://github.com/commercial-game-sources/in_pursuit_of_greed
 [Little Big Adventure 2]: https://github.com/commercial-game-sources/little_big_adventure_2
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
+[Quake II]: https://github.com/commercial-game-sources/quake_ii
 [Forsaken]: https://github.com/commercial-game-sources/forsaken
 [Quake III Arena]: https://github.com/commercial-game-sources/quake_iii_arena
+[Serious Sam: The First Encounter]: https://github.com/commercial-game-sources/serious_sam
 [Return to Castle Wolfenstein]: https://github.com/commercial-game-sources/return_to_castle_wolfenstein
 [RTCW Multiplayer]: https://github.com/commercial-game-sources/return_to_castle_wolfenstein_mp
+[Serious Sam: The Second Encounter]: https://github.com/commercial-game-sources/serious_sam
 [Doom 3]: https://github.com/commercial-game-sources/doom_3
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 [S.T.A.L.K.E.R.: Call of Pripyat]: https://github.com/commercial-game-sources/stalker_call_of_pripyat
@@ -102,6 +122,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Chocolate Quake]: https://github.com/Henrique194/chocolate-quake
 [dhewm3]: https://github.com/dhewm/dhewm3
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
+[DXX-Rebirth]: https://github.com/dxx-rebirth/dxx-rebirth
 [ForsakenX]: https://github.com/ForsakenX/forsaken
 [ioquake3]: https://github.com/ioquake/ioq3
 [iortcw]: https://github.com/iortcw/iortcw
@@ -115,5 +136,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
 [SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
+[Serious Engine (icculus)]: https://github.com/icculus/Serious-Engine
 [Vanilla Conquer]: https://github.com/TheAssemblyArmada/Vanilla-Conquer
 [Wolf4SDL]: https://github.com/11001011101001011/Wolf4SDL
+[Yamagi Quake II]: https://github.com/yquake2/yquake2
