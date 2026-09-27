@@ -68,6 +68,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Penumbra Overture][Penumbra Overture]                             | 2007/03 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [S.T.A.L.K.E.R.: Call of Pripyat][S.T.A.L.K.E.R.: Call of Pripyat] | 2009/10 |    PC    |    C++     |    GSC Game World     |                                       [OpenXRay][OpenXRay]                                        |
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
+| [Thirty Flights of Loving][Thirty Flights of Loving] | 2012/08 | PC | C/ASM | Blendo Games | |
 | [Doom 3: BFG Edition][Doom 3: BFG Edition] | 2012/10 | PC | C++/ASM | id Software | |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 
@@ -125,6 +126,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 [S.T.A.L.K.E.R.: Call of Pripyat]: https://github.com/commercial-game-sources/stalker_call_of_pripyat
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
+[Thirty Flights of Loving]: https://github.com/commercial-game-sources/thirty_flights_of_loving
 [Doom 3: BFG Edition]: https://github.com/commercial-game-sources/doom_3_bfg
 [Amnesia: A Machine For Pigs]: https://github.com/commercial-game-sources/amnesia_a_machine_for_pigs
 
