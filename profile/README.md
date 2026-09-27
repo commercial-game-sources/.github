@@ -35,6 +35,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Dune II | 1992/12 | PC (reconstruction) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | Flashback | 1993 | PC (reconstruction) | C++ | Delphine Software | [REminiscence][REminiscence] |
+| Duke Nukem II | 1993/12 | PC (reconstruction) | C/ASM | Apogee Software | [Duke2Reconstructed][Duke2Reconstructed]<br/>[RigelEngine][RigelEngine] |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC    |    ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
 | [Little Big Adventure][Little Big Adventure]                       | 1994/10 |    PC    |    ASM     | Adeline Software Int. |                                                                                                   |
@@ -129,6 +130,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [DevilutionX]: https://github.com/diasurgical/DevilutionX
 [dhewm3]: https://github.com/dhewm/dhewm3
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
+[Duke2Reconstructed]: https://github.com/commercial-game-sources/duke2reconstructed
 [DXX-Rebirth]: https://github.com/dxx-rebirth/dxx-rebirth
 [ForsakenX]: https://github.com/ForsakenX/forsaken
 [ioquake3]: https://github.com/ioquake/ioq3
@@ -142,6 +144,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [rawgl]: https://github.com/commercial-game-sources/rawgl
 [ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
 [REminiscence]: https://github.com/commercial-game-sources/reminiscence
+[RigelEngine]: https://github.com/lethal-guitar/RigelEngine
 [ROGUEPC]: https://github.com/MestreLion/roguepc
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
