@@ -41,9 +41,11 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Duke Nukem II | 1993/12 | PC (reconstruction) | C/ASM | Apogee Software | [Duke2Reconstructed][Duke2Reconstructed]<br/>[RigelEngine][RigelEngine] |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC    |    ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
+| Jazz Jackrabbit | 1994/08 | PC (reimplementation) | C++ | Epic MegaGames | [OpenJazz][OpenJazz] |
 | [Little Big Adventure][Little Big Adventure]                       | 1994/10 |    PC    |    ASM     | Adeline Software Int. |                                                                                                   |
 | [Pinball Fantasies][Pinball Fantasies]                             |  1994   |    PC    |    ASM     |   FrontLine Design    |                                                                                                   |
 | [Blake Stone: Planet Strike][Blake Stone: Planet Strike]           | 1994/10 |    PC    |   C/ASM    |    JAM Productions    |                          [BStone](https://github.com/bibendovsky/bstone)                          |
+| [Cruis'n USA][Cruis'n USA] | 1994/11 | Arcade | C/ASM | TV Games | |
 | [Rise of the Triad][Rise of the Triad]                             | 1994/12 |    PC    |   C/ASM    |       3D Realms       |                          [ROTT Port][ROTT Port]<br/>[rottexpr][rottexpr]                          |
 | [Heretic][Heretic]                                                 | 1994/12 |    PC    |   C/ASM    |    Raven Software     |                               [Chocolate Heretic][Chocolate Doom]                               |
 | [Descent][Descent]                                                 | 1995/03 |    PC    |   C/ASM    |   Parallax Software   |                                   [DXX-Rebirth][DXX-Rebirth]                                    |
@@ -53,14 +55,17 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Descent II][Descent II]                                           | 1996/03 |    PC    |   C/ASM    |   Parallax Software   |                                   [DXX-Rebirth][DXX-Rebirth]                                    |
 | [Witchaven II][Witchaven II]                                       | 1996/05 |    PC    |   C/ASM    |   Capstone Software   |                                                                                                   |
 | [Quake][Quake]                                                   | 1996/06 |    PC    |   C/ASM    |      id Software      |                                 [Chocolate Quake][Chocolate Quake]                                |
+| Tomb Raider I | 1996/11 | PC (reconstruction) | C | Core Design | [TRX][TRX] |
 | [Command & Conquer: Red Alert][Command & Conquer: Red Alert] | 1996/11 | PC | C++/ASM | Westwood Studios | [Vanilla Conquer][Vanilla Conquer] |
 | [In Pursuit of Greed][In Pursuit of Greed]                         |  1996   |    PC    |   C/ASM    |  Mind Shear Software  |                                                                                                   |
 | Diablo | 1996/12 | PC (reconstruction) | C++ | Blizzard North | [Devilution][Devilution]<br/>[DevilutionX][DevilutionX] |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    |  C++/ASM   | Adeline Software Int. |                                                                                                   |
+| Blood | 1997/05 | PC (reconstruction) | C++/ASM | Monolith Productions | [NBlood][NBlood] |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 | Dungeon Keeper | 1997/06 | PC (remake) | C/C++ | Bullfrog Productions | [KeeperFX][KeeperFX] |
 | [Quake II][Quake II]                                               | 1997/12 |    PC    |   C/ASM    |      id Software      |                               [Yamagi Quake II][Yamagi Quake II]                                |
 | [Forsaken][Forsaken]                                               | 1998/04 |    PC    |   C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
+| Jazz Jackrabbit 2 | 1998 | PC (reimplementation) | C++ | Epic MegaGames / Orange Games | [Jazz² Resurrection][Jazz² Resurrection] |
 | [Quake III Arena][Quake III Arena] | 1999/12 | PC | C/ASM | id Software | [ioquake3][ioquake3] |
 | [Serious Sam: The First Encounter][Serious Sam: The First Encounter] | 2001/03 |    PC    |  C++/ASM   |        Croteam        |                      [Serious Engine (icculus)][Serious Engine (icculus)]                       |
 | [Return to Castle Wolfenstein][Return to Castle Wolfenstein]<br/>[Multiplayer source][RTCW Multiplayer] | 2001/11 | PC | C/ASM | Gray Matter Interactive / Nerve Software | [iortcw][iortcw] |
@@ -77,6 +82,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 <!-- SimCity X11 release: https://www.donhopkins.com/home/catalog/simcity/simcity-announcement.html -->
 <!-- Historical implementation: micropolis-activity/src/sim/ and micropolis-activity/res/ in the Micropolis archive. -->
 
+<!-- Cruis'n USA: archival v4.4 source, DATE.ASM 1995-03-15; developer credited as TV Games in CUSA.ASM. Publication permission and complete buildability have not been established. -->
 <!-- Sources; keep in the same order as the table -->
 
 [Rogue]: https://github.com/commercial-game-sources/rogue
@@ -103,6 +109,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [Little Big Adventure]: https://github.com/commercial-game-sources/little_big_adventure
 [Pinball Fantasies]: https://github.com/commercial-game-sources/pinball_fantasies
 [Blake Stone: Planet Strike]: https://github.com/commercial-game-sources/blake_stone
+[Cruis'n USA]: https://github.com/commercial-game-sources/cruisn_usa
 [Rise of the Triad]: https://github.com/commercial-game-sources/rise_of_the_triad
 [Heretic]: https://github.com/commercial-game-sources/heretic
 [Descent]: https://github.com/commercial-game-sources/descent
@@ -146,13 +153,16 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [ForsakenX]: https://github.com/ForsakenX/forsaken
 [ioquake3]: https://github.com/ioquake/ioq3
 [iortcw]: https://github.com/iortcw/iortcw
+[Jazz² Resurrection]: https://github.com/commercial-game-sources/jazz2_native
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
 [KeeperFX]: https://github.com/commercial-game-sources/keeperfx
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
 [MicropolisCore]: https://github.com/commercial-game-sources/micropolis_core
+[NBlood]: https://github.com/commercial-game-sources/nblood
 [OpenDUNE]: https://github.com/commercial-game-sources/opendune
+[OpenJazz]: https://github.com/commercial-game-sources/openjazz
 [OpenXRay]: https://github.com/OpenXRay/xray-16
 [rawgl]: https://github.com/commercial-game-sources/rawgl
 [ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
@@ -164,6 +174,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
 [SDLPoP]: https://github.com/commercial-game-sources/sdlpop
 [Serious Engine (icculus)]: https://github.com/icculus/Serious-Engine
+[TRX]: https://github.com/commercial-game-sources/trx
 [Vanilla Conquer]: https://github.com/TheAssemblyArmada/Vanilla-Conquer
 [Wolf4SDL]: https://github.com/11001011101001011/Wolf4SDL
 [Yamagi Quake II]: https://github.com/yquake2/yquake2
