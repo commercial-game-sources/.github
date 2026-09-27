@@ -22,6 +22,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Altered Beast][Altered Beast]                                     |  1989   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
 | [Catacomb][Catacomb]                                               |  1990   |    PC    | Pascal/ASM |       Softdisk        |                                                                                                   |
 | [Atomic Robo-Kid][Atomic Robo-Kid]                                 |  1990   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
+| [Prince of Persia][Prince of Persia]                               |  1990   |    PC    | C (SDLPoP) |  Brøderbund Software  |                                        [SDLPoP][SDLPoP]                                          |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1991   |    PC    |   C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
 | [Hovertank 3D][Hovertank 3D]                                       | 1991/04 |    PC    |   C/ASM    |      id Software      |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams]     |  1991   |    PC    |   C/ASM    |      id Software      |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
@@ -61,6 +62,8 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 
+Prince of Persia links to SDLPoP, a C port reconstructed from the DOS game's disassembly.
+
 <!-- Sources; keep in the same order as the table -->
 
 [Rogue]: https://github.com/commercial-game-sources/rogue
@@ -72,6 +75,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Altered Beast]: https://github.com/commercial-game-sources/altered_beast
 [Catacomb]: https://github.com/commercial-game-sources/catacomb
 [Atomic Robo-Kid]: https://github.com/commercial-game-sources/atomic_robo_kid
+[Prince of Persia]: https://github.com/commercial-game-sources/sdlpop
 [Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
 [Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
@@ -136,6 +140,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
 [SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
+[SDLPoP]: https://github.com/NagyD/SDLPoP
 [Serious Engine (icculus)]: https://github.com/icculus/Serious-Engine
 [Vanilla Conquer]: https://github.com/TheAssemblyArmada/Vanilla-Conquer
 [Wolf4SDL]: https://github.com/11001011101001011/Wolf4SDL
