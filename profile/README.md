@@ -65,10 +65,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Serious Sam: The First Encounter][Serious Sam: The First Encounter] | 2001/03 |    PC    |  C++/ASM   |        Croteam        |                      [Serious Engine (icculus)][Serious Engine (icculus)]                       |
 | [Return to Castle Wolfenstein][Return to Castle Wolfenstein]<br/>[Multiplayer source][RTCW Multiplayer] | 2001/11 | PC | C/ASM | Gray Matter Interactive / Nerve Software | [iortcw][iortcw] |
 | [Serious Sam: The Second Encounter][Serious Sam: The Second Encounter] | 2002/02 |    PC    |  C++/ASM   |        Croteam        |                      [Serious Engine (icculus)][Serious Engine (icculus)]                       |
-| [Doom 3][Doom 3]                                                 | 2004/08 |    PC    |  C++/ASM   |      id Software      |                                        [dhewm3][dhewm3]                                          |
 | [Penumbra Overture][Penumbra Overture]                             | 2007/03 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [S.T.A.L.K.E.R.: Call of Pripyat][S.T.A.L.K.E.R.: Call of Pripyat] | 2009/10 |    PC    |    C++     |    GSC Game World     |                                       [OpenXRay][OpenXRay]                                        |
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
+| [Doom 3: BFG Edition][Doom 3: BFG Edition] | 2012/10 | PC | C++/ASM | id Software | |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 
 SimCity is represented by the Unix/X11 source lineage released as Micropolis; its Language entry refers to the historical C/Tcl version. MicropolisCore is the later C++ refactoring.
@@ -122,10 +122,10 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [Return to Castle Wolfenstein]: https://github.com/commercial-game-sources/return_to_castle_wolfenstein
 [RTCW Multiplayer]: https://github.com/commercial-game-sources/return_to_castle_wolfenstein_mp
 [Serious Sam: The Second Encounter]: https://github.com/commercial-game-sources/serious_sam
-[Doom 3]: https://github.com/commercial-game-sources/doom_3
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 [S.T.A.L.K.E.R.: Call of Pripyat]: https://github.com/commercial-game-sources/stalker_call_of_pripyat
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
+[Doom 3: BFG Edition]: https://github.com/commercial-game-sources/doom_3_bfg
 [Amnesia: A Machine For Pigs]: https://github.com/commercial-game-sources/amnesia_a_machine_for_pigs
 
 <!-- Convenient ports, reconstructions, reimplementations and remakes; keep in alphabetic order -->
@@ -138,7 +138,6 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [Chocolate Quake]: https://github.com/Henrique194/chocolate-quake
 [Devilution]: https://github.com/commercial-game-sources/devilution
 [DevilutionX]: https://github.com/diasurgical/DevilutionX
-[dhewm3]: https://github.com/dhewm/dhewm3
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
 [Duke2Reconstructed]: https://github.com/commercial-game-sources/duke2reconstructed
 [DXX-Rebirth]: https://github.com/dxx-rebirth/dxx-rebirth
