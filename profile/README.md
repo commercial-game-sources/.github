@@ -4,7 +4,7 @@ Source code of some commercial games, with useful information.
 
 ## Content
 
-Game-name links lead to the source archives; convenient ports are listed separately.
+Game-name links lead to original source archives; convenient ports are listed separately. Reconstructions have unlinked game names and `(reconstruction)` after the original platform, with project links in the Port(s) column. Their Language entries describe the reconstruction.
 
 The ports list includes those who are updated to make the project easier to understand/build, while being faithful to the original; ports adding/changing signficant features are generally not included.
 
@@ -22,7 +22,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Altered Beast][Altered Beast]                                     |  1989   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
 | [Catacomb][Catacomb]                                               |  1990   |    PC    | Pascal/ASM |       Softdisk        |                                                                                                   |
 | [Atomic Robo-Kid][Atomic Robo-Kid]                                 |  1990   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
-| [Prince of Persia][Prince of Persia]                               |  1990   |    PC    | C (SDLPoP) |  Brøderbund Software  |                                        [SDLPoP][SDLPoP]                                          |
+| Prince of Persia | 1990 | PC (reconstruction) | C | Brøderbund Software | [SDLPoP][SDLPoP] |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1991   |    PC    |   C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
 | [Hovertank 3D][Hovertank 3D]                                       | 1991/04 |    PC    |   C/ASM    |      id Software      |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams]     |  1991   |    PC    |   C/ASM    |      id Software      |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
@@ -31,7 +31,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Wolfenstein 3D][Wolfenstein 3D]                                   | 1992/05 |    PC    |   C/ASM    |      id Software      |                                       [Wolf4SDL][Wolf4SDL]                                        |
 | [Hägar The Horrible][Hägar The Horrible]                           |  1992   |   C64    |    ASM     |     Kingsoft GmbH     |                                                                                                   |
 | [Alien 3][Alien 3]                                                 |  1992   |   C64    |    ASM     |    Probe Software     |                                                                                                 |
+| Another World | 1992 | PC (reconstruction) | C++ | Delphine Software | [rawgl][rawgl] |
+| Dune II | 1992/12 | PC (reconstruction) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
+| Flashback | 1993 | PC (reconstruction) | C++ | Delphine Software | [REminiscence][REminiscence] |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC    |    ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
 | [Little Big Adventure][Little Big Adventure]                       | 1994/10 |    PC    |    ASM     | Adeline Software Int. |                                                                                                   |
@@ -48,6 +51,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Quake][Quake]                                                   | 1996/06 |    PC    |   C/ASM    |      id Software      |                                 [Chocolate Quake][Chocolate Quake]                                |
 | [Command & Conquer: Red Alert][Command & Conquer: Red Alert] | 1996/11 | PC | C++/ASM | Westwood Studios | [Vanilla Conquer][Vanilla Conquer] |
 | [In Pursuit of Greed][In Pursuit of Greed]                         |  1996   |    PC    |   C/ASM    |  Mind Shear Software  |                                                                                                   |
+| Diablo | 1996/12 | PC (reconstruction) | C++ | Blizzard North | [Devilution][Devilution]<br/>[DevilutionX][DevilutionX] |
 | [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    |  C++/ASM   | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 | [Quake II][Quake II]                                               | 1997/12 |    PC    |   C/ASM    |      id Software      |                               [Yamagi Quake II][Yamagi Quake II]                                |
@@ -62,8 +66,6 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 
-Prince of Persia links to SDLPoP, a C port reconstructed from the DOS game's disassembly.
-
 <!-- Sources; keep in the same order as the table -->
 
 [Rogue]: https://github.com/commercial-game-sources/rogue
@@ -75,7 +77,6 @@ Prince of Persia links to SDLPoP, a C port reconstructed from the DOS game's dis
 [Altered Beast]: https://github.com/commercial-game-sources/altered_beast
 [Catacomb]: https://github.com/commercial-game-sources/catacomb
 [Atomic Robo-Kid]: https://github.com/commercial-game-sources/atomic_robo_kid
-[Prince of Persia]: https://github.com/commercial-game-sources/sdlpop
 [Catacomb II (The Catacomb)]: https://github.com/commercial-game-sources/catacomb_ii
 [Hovertank 3D]: https://github.com/commercial-game-sources/hovertank_3d
 [Commander Keen in Keen Dreams]: https://github.com/commercial-game-sources/commander_keen_in_keen_dreams
@@ -116,7 +117,7 @@ Prince of Persia links to SDLPoP, a C port reconstructed from the DOS game's dis
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
 [Amnesia: A Machine For Pigs]: https://github.com/commercial-game-sources/amnesia_a_machine_for_pigs
 
-<!-- Convenient ports; keep in alphabetic order -->
+<!-- Convenient ports and reconstructions; keep in alphabetic order -->
 
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
 [BStone]: https://github.com/bibendovsky/bstone
@@ -124,6 +125,8 @@ Prince of Persia links to SDLPoP, a C port reconstructed from the DOS game's dis
 [Chocolate Doom]: https://github.com/chocolate-doom/chocolate-doom
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [Chocolate Quake]: https://github.com/Henrique194/chocolate-quake
+[Devilution]: https://github.com/commercial-game-sources/devilution
+[DevilutionX]: https://github.com/diasurgical/DevilutionX
 [dhewm3]: https://github.com/dhewm/dhewm3
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
 [DXX-Rebirth]: https://github.com/dxx-rebirth/dxx-rebirth
@@ -134,13 +137,16 @@ Prince of Persia links to SDLPoP, a C port reconstructed from the DOS game's dis
 [JonoF's Shadow Warrior Port]: https://github.com/jonof/jfsw
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
+[OpenDUNE]: https://github.com/commercial-game-sources/opendune
 [OpenXRay]: https://github.com/OpenXRay/xray-16
+[rawgl]: https://github.com/commercial-game-sources/rawgl
 [ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
+[REminiscence]: https://github.com/commercial-game-sources/reminiscence
 [ROGUEPC]: https://github.com/MestreLion/roguepc
 [ROTT Port]: https://github.com/fabiangreffrath/rott
 [rottexpr]: https://github.com/LTCHIPS/rottexpr
 [SDL Hovertank 3-D]: https://github.com/Codes4Fun/SDL_Hovertank3D
-[SDLPoP]: https://github.com/NagyD/SDLPoP
+[SDLPoP]: https://github.com/commercial-game-sources/sdlpop
 [Serious Engine (icculus)]: https://github.com/icculus/Serious-Engine
 [Vanilla Conquer]: https://github.com/TheAssemblyArmada/Vanilla-Conquer
 [Wolf4SDL]: https://github.com/11001011101001011/Wolf4SDL
