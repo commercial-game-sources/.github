@@ -16,8 +16,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | ------------------------------------------------------------------ | :-----: | :------: | :--------: | :-------------------: | :-----------------------------------------------------------------------------------------------: |
 | [Rogue][Rogue]                                                     |  1983   |    PC    |   C/ASM    |      A.I. Design      |                                        [ROGUEPC][ROGUEPC]                                         |
 | Digger                                                             |  1983   |    PC    |    ASM     |   Windmill Software   |                              [Digger Remastered][Digger Remastered]                               |
+| BC's Quest for Tires | 1983 | C64 (reconstruction) | ASM | Sydney Development | [BC's Quest for Tires disassembly][BC's Quest for Tires disassembly] |
 | [Willy the Worm][Willy the Worm]                                   | 1985/06 |    PC    |   Pascal   |      Alan Farmer      |                                                                                                   |
 | [Elite][Elite]                                                     |  1985   |   C64    |    ASM     | Ian Bell / David Braben |                                                                                                 |
+| Monty on the Run | 1985 | C64 (reconstruction) | ASM | Gremlin Graphics | [Monty on the Run reconstruction][Monty on the Run reconstruction] |
 | [Leisure Suit Larry in the Land of the Lounge Lizards]             | 1987/06 |    PC    |    AGI     |    Sierra On-Line     |                                                                                                   |
 | [Rampage][Rampage]                                                 |  1987   |   C64    |    ASM     |      Activision       |                                                                                                 |
 | [Double Dragon II: The Revenge][Double Dragon II: The Revenge]     |  1989   |    PC    |    ASM     |     Binary Design     |                                                                                                   |
@@ -139,6 +141,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 
 <!-- Convenient ports, reconstructions, reimplementations and remakes; keep in alphabetic order -->
 
+[BC's Quest for Tires disassembly]: https://github.com/commercial-game-sources/c64_disassembled_games/blob/main/BCsQuestforTires.asm
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
 [BStone]: https://github.com/bibendovsky/bstone
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
@@ -160,6 +163,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [KeeperFX]: https://github.com/commercial-game-sources/keeperfx
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
 [MicropolisCore]: https://github.com/commercial-game-sources/micropolis_core
+[Monty on the Run reconstruction]: https://github.com/commercial-game-sources/monty_on_the_run/tree/main/byte-perfect
 [NBlood]: https://github.com/commercial-game-sources/nblood
 [OpenDUNE]: https://github.com/commercial-game-sources/opendune
 [OpenJazz]: https://github.com/commercial-game-sources/openjazz
