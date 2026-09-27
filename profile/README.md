@@ -37,9 +37,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Witchaven II][Witchaven II]                                       | 1996/05 |    PC    |   C/ASM    |   Capstone Software   |                                                                                                   |
 | [Quake][Quake]                                                   | 1996/06 |    PC    |   C/ASM    |      id Software      |                                 [Chocolate Quake][Chocolate Quake]                                |
 | [In Pursuit of Greed][In Pursuit of Greed]                         |  1996   |    PC    |   C/ASM    |  Mind Shear Software  |                                                                                                   |
-| [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    | C/C++/ASM  | Adeline Software Int. |                                                                                                   |
+| [Little Big Adventure 2][Little Big Adventure 2]                   | 1997/05 |    PC    |  C++/ASM   | Adeline Software Int. |                                                                                                   |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 | [Forsaken][Forsaken]                                               | 1998/04 |    PC    |   C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
+| [Doom 3][Doom 3]                                                 | 2004/08 |    PC    |  C++/ASM   |      id Software      |                                        [dhewm3][dhewm3]                                          |
 | [Penumbra Overture][Penumbra Overture]                             | 2007/03 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [S.T.A.L.K.E.R.: Call of Pripyat][S.T.A.L.K.E.R.: Call of Pripyat] | 2009/10 |    PC    |    C++     |    GSC Game World     |                                       [OpenXRay][OpenXRay]                                        |
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
@@ -74,6 +75,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Little Big Adventure 2]: https://github.com/commercial-game-sources/little_big_adventure_2
 [Shadow Warrior]: https://github.com/commercial-game-sources/shadow_warrior
 [Forsaken]: https://github.com/commercial-game-sources/forsaken
+[Doom 3]: https://github.com/commercial-game-sources/doom_3
 [Penumbra Overture]: https://github.com/commercial-game-sources/penumbra_overture
 [S.T.A.L.K.E.R.: Call of Pripyat]: https://github.com/commercial-game-sources/stalker_call_of_pripyat
 [Amnesia: The Dark Descent]: https://github.com/commercial-game-sources/amnesia_the_dark_descent
@@ -87,6 +89,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Chocolate Doom]: https://github.com/chocolate-doom/chocolate-doom
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [Chocolate Quake]: https://github.com/Henrique194/chocolate-quake
+[dhewm3]: https://github.com/dhewm/dhewm3
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
 [ForsakenX]: https://github.com/ForsakenX/forsaken
 [JonoF's Duke Nukem 3D Port]: https://github.com/jonof/jfduke3d
