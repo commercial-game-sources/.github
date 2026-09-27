@@ -37,6 +37,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Dune II | 1992/12 | PC (reimplementation) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | Flashback | 1993 | PC (reimplementation) | C++ | Delphine Software | [REminiscence][REminiscence] |
+| [SimCity (Micropolis)][SimCity] | 1993 | Unix / X11 | C/Tcl | Maxis / DUX Software | [MicropolisCore (C++ refactoring)][MicropolisCore] |
 | Duke Nukem II | 1993/12 | PC (reconstruction) | C/ASM | Apogee Software | [Duke2Reconstructed][Duke2Reconstructed]<br/>[RigelEngine][RigelEngine] |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
 | [Beneath a Steel Sky][Beneath a Steel Sky]                         | 1994/03 |    PC    |    ASM     |  Revolution Software  |                 [Beneath a Steel Sky Remastered][Beneath a Steel Sky Remastered]                  |
@@ -70,6 +71,11 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Amnesia: The Dark Descent][Amnesia: The Dark Descent]             | 2010/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
 
+SimCity is represented by the Unix/X11 source lineage released as Micropolis; its Language entry refers to the historical C/Tcl version. MicropolisCore is the later C++ refactoring.
+
+<!-- SimCity X11 release: https://www.donhopkins.com/home/catalog/simcity/simcity-announcement.html -->
+<!-- Historical implementation: micropolis-activity/src/sim/ and micropolis-activity/res/ in the Micropolis archive. -->
+
 <!-- Sources; keep in the same order as the table -->
 
 [Rogue]: https://github.com/commercial-game-sources/rogue
@@ -90,6 +96,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Hägar The Horrible]: https://github.com/commercial-game-sources/hagar_the_horrible
 [Alien 3]: https://github.com/commercial-game-sources/alien_3
 [Ken's Labyrinth]: https://github.com/commercial-game-sources/kens_labyrinth
+[SimCity]: https://github.com/commercial-game-sources/micropolis
 [Doom]: https://github.com/commercial-game-sources/doom
 [Beneath a Steel Sky]: https://github.com/commercial-game-sources/beneath_a_steel_sky
 [Little Big Adventure]: https://github.com/commercial-game-sources/little_big_adventure
@@ -143,6 +150,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
 [KeeperFX]: https://github.com/commercial-game-sources/keeperfx
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
+[MicropolisCore]: https://github.com/commercial-game-sources/micropolis_core
 [OpenDUNE]: https://github.com/commercial-game-sources/opendune
 [OpenXRay]: https://github.com/OpenXRay/xray-16
 [rawgl]: https://github.com/commercial-game-sources/rawgl
