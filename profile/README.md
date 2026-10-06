@@ -24,6 +24,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Green Beret | 1986 | C64 (reconstruction) | ASM | Ocean / Imagine | [Green Beret disassembly][Green Beret disassembly] |
 | [Leisure Suit Larry in the Land of the Lounge Lizards]             | 1987/06 |    PC    |    AGI     |    Sierra On-Line     |                                                                                                   |
 | [Rampage][Rampage]                                                 |  1987   |   C64    |    ASM     |      Activision       |                                                                                                 |
+| Maniac Mansion | 1987 | C64 (reconstruction) | ASM | Lucasfilm Games | [Maniac Mansion disassembly][Maniac Mansion disassembly] |
 | [Double Dragon II: The Revenge][Double Dragon II: The Revenge]     |  1989   |    PC    |    ASM     |     Binary Design     |                                                                                                   |
 | [Altered Beast][Altered Beast]                                     |  1989   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
 | [Catacomb][Catacomb]                                               |  1990   |    PC    | Pascal/ASM |       Softdisk        |                                                                                                   |
@@ -31,6 +32,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Prince of Persia | 1990 | PC (reconstruction) | C | Brøderbund Software | [SDLPoP][SDLPoP] |
 | Stunts (4D Sports Driving) | 1990/10 | PC (reconstruction) | C/ASM | Distinctive Software | [Restunts][Restunts] |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1991   |    PC    |   C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
+| Prehistorik | 1991 | PC (reimplementation) | C++ | Titus Interactive | [Olduvai][Olduvai] |
 | [Hovertank 3D][Hovertank 3D]                                       | 1991/04 |    PC    |   C/ASM    |      id Software      |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams]     |  1991   |    PC    |   C/ASM    |      id Software      |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
 | [Catacomb 3-D][Catacomb 3-D]                                       | 1991/11 |    PC    |   C/ASM    |      id Software      |                             [Reflection Catacomb 3-D][ReflectionHLE]                              |
@@ -43,6 +45,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Dune II | 1992/12 | PC (reimplementation) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | Flashback | 1993 | PC (reimplementation) | C++ | Delphine Software | [REminiscence][REminiscence] |
+| Prehistorik 2 | 1993 | PC (reconstruction) | Python | Titus Interactive | [Prehistorik 2 source port][Prehistorik 2 source port] |
 | [SimCity (Micropolis)][SimCity] | 1993 | Unix / X11 | C/Tcl | Maxis / DUX Software | [MicropolisCore (C++ refactoring)][MicropolisCore] |
 | Duke Nukem II | 1993/12 | PC (reconstruction) | C/ASM | Apogee Software | [Duke2Reconstructed][Duke2Reconstructed]<br/>[RigelEngine][RigelEngine] |
 | [Doom][Doom]                                                     | 1993/12 |    PC    |   C/ASM    |      id Software      |                                  [Chocolate Doom][Chocolate Doom]                                 |
@@ -84,6 +87,10 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Thirty Flights of Loving][Thirty Flights of Loving] | 2012/08 | PC | C/ASM | Blendo Games | |
 | [Doom 3: BFG Edition][Doom 3: BFG Edition] | 2012/10 | PC | C++/ASM | id Software | |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
+
+Maniac Mansion is represented by a commented C64 engine and disk-loader disassembly for research; a complete rebuild has not been established. The separate [game-script disassembly](https://github.com/segrax/Maniac.Mansion.Disassembly) documents the game logic.
+
+Prehistorik is represented by Olduvai's faithful Classic DOS mode; optional enhanced presentation is also available. Prehistorik 2 is represented by a recovered Python source port. Both require original game data.
 
 Tyrian is represented by OpenTyrian, a C translation of the original Pascal/assembly source licensed to the port developers; the original source is not publicly released.
 
@@ -176,13 +183,16 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [Keen Dreams SDL2]: https://github.com/sulix/keen-dreams-sdl2
 [KeeperFX]: https://github.com/commercial-game-sources/keeperfx
 [LAB3D/SDL]: https://github.com/sacredbanana/lab3d-sdl
+[Maniac Mansion disassembly]: https://github.com/commercial-game-sources/maniac_mansion
 [MicropolisCore]: https://github.com/commercial-game-sources/micropolis_core
 [Monty on the Run reconstruction]: https://github.com/commercial-game-sources/monty_on_the_run/tree/main/byte-perfect
 [NBlood]: https://github.com/commercial-game-sources/nblood
+[Olduvai]: https://github.com/commercial-game-sources/olduvai
 [OpenDUNE]: https://github.com/commercial-game-sources/opendune
 [OpenJazz]: https://github.com/commercial-game-sources/openjazz
 [OpenTyrian]: https://github.com/commercial-game-sources/opentyrian
 [OpenXRay]: https://github.com/OpenXRay/xray-16
+[Prehistorik 2 source port]: https://github.com/commercial-game-sources/prehistorik_2
 [rawgl]: https://github.com/commercial-game-sources/rawgl
 [ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
 [REminiscence]: https://github.com/commercial-game-sources/reminiscence
