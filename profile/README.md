@@ -21,6 +21,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Elite][Elite]                                                     |  1985   |   C64    |    ASM     | Ian Bell / David Braben |                                                                                                 |
 | Commando | 1985 | C64 (reconstruction) | ASM | Elite Systems | [Commando disassembly][Commando disassembly] |
 | Monty on the Run | 1985 | C64 (reconstruction) | ASM | Gremlin Graphics | [Monty on the Run reconstruction][Monty on the Run reconstruction] |
+| Green Beret | 1986 | C64 (reconstruction) | ASM | Ocean / Imagine | [Green Beret disassembly][Green Beret disassembly] |
 | [Leisure Suit Larry in the Land of the Lounge Lizards]             | 1987/06 |    PC    |    AGI     |    Sierra On-Line     |                                                                                                   |
 | [Rampage][Rampage]                                                 |  1987   |   C64    |    ASM     |      Activision       |                                                                                                 |
 | [Double Dragon II: The Revenge][Double Dragon II: The Revenge]     |  1989   |    PC    |    ASM     |     Binary Design     |                                                                                                   |
@@ -38,6 +39,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Hägar The Horrible][Hägar The Horrible]                           |  1992   |   C64    |    ASM     |     Kingsoft GmbH     |                                                                                                   |
 | [Alien 3][Alien 3]                                                 |  1992   |   C64    |    ASM     |    Probe Software     |                                                                                                 |
 | Another World | 1992 | PC (reimplementation) | C++ | Delphine Software | [rawgl][rawgl] |
+| Bumpy's Arcade Fantasy | 1992 | PC (reconstruction) | C | Loriciel | [Bumpy's Arcade Fantasy reconstruction][Bumpy's Arcade Fantasy reconstruction] |
 | Dune II | 1992/12 | PC (reimplementation) | C | Westwood Studios | [OpenDUNE][OpenDUNE] |
 | [Ken's Labyrinth][Ken's Labyrinth]                                 | 1993/01 |    PC    |   C/ASM    |     Ken Silverman     |                                      [LAB3D/SDL][LAB3D/SDL]                                       |
 | Flashback | 1993 | PC (reimplementation) | C++ | Delphine Software | [REminiscence][REminiscence] |
@@ -68,6 +70,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | Blood | 1997/05 | PC (reconstruction) | C++/ASM | Monolith Productions | [NBlood][NBlood] |
 | [Shadow Warrior][Shadow Warrior]                                   | 1997/05 |    PC    |   C/ASM    |       3D Realms       |                    [JonoF's Shadow Warrior Port][JonoF's Shadow Warrior Port]                     |
 | Dungeon Keeper | 1997/06 | PC (remake) | C/C++ | Bullfrog Productions | [KeeperFX][KeeperFX] |
+| Carmageddon | 1997/06 | PC (reconstruction) | C | Stainless Software | [Dethrace][Dethrace] |
 | [Quake II][Quake II]                                               | 1997/12 |    PC    |   C/ASM    |      id Software      |                               [Yamagi Quake II][Yamagi Quake II]                                |
 | [Forsaken][Forsaken]                                               | 1998/04 |    PC    |   C/C++    |  Probe Entertainment  |                                      [ForsakenX][ForsakenX]                                       |
 | Jazz Jackrabbit 2 | 1998 | PC (reimplementation) | C++ | Epic MegaGames / Orange Games | [Jazz² Resurrection][Jazz² Resurrection] |
@@ -150,17 +153,20 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
 [BStone]: https://github.com/bibendovsky/bstone
+[Bumpy's Arcade Fantasy reconstruction]: https://github.com/commercial-game-sources/bumpy_arcade_fantasy
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
 [Chocolate Doom]: https://github.com/chocolate-doom/chocolate-doom
 [Chocolate Duke3D]: https://github.com/fabiensanglard/chocolate_duke3D
 [Chocolate Quake]: https://github.com/Henrique194/chocolate-quake
 [Commando disassembly]: https://github.com/commercial-game-sources/commando/tree/orig
+[Dethrace]: https://github.com/commercial-game-sources/dethrace
 [Devilution]: https://github.com/commercial-game-sources/devilution
 [DevilutionX]: https://github.com/diasurgical/DevilutionX
 [Digger Remastered]: https://github.com/commercial-game-sources/digger-remastered
 [Duke2Reconstructed]: https://github.com/commercial-game-sources/duke2reconstructed
 [DXX-Rebirth]: https://github.com/dxx-rebirth/dxx-rebirth
 [ForsakenX]: https://github.com/ForsakenX/forsaken
+[Green Beret disassembly]: https://github.com/commercial-game-sources/green_beret
 [Hunchback disassembly]: https://github.com/commercial-game-sources/hunchback/tree/master/Original
 [ioquake3]: https://github.com/ioquake/ioq3
 [iortcw]: https://github.com/iortcw/iortcw
