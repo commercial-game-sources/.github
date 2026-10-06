@@ -16,6 +16,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | ------------------------------------------------------------------ | :-----: | :------: | :--------: | :-------------------: | :-----------------------------------------------------------------------------------------------: |
 | [Rogue][Rogue]                                                     |  1983   |    PC    |   C/ASM    |      A.I. Design      |                                        [ROGUEPC][ROGUEPC]                                         |
 | Digger                                                             |  1983   |    PC    |    ASM     |   Windmill Software   |                              [Digger Remastered][Digger Remastered]                               |
+| Hunchback | 1983 | C64 (reconstruction) | ASM | Ocean Software | [Hunchback disassembly][Hunchback disassembly] |
 | [Willy the Worm][Willy the Worm]                                   | 1985/06 |    PC    |   Pascal   |      Alan Farmer      |                                                                                                   |
 | [Elite][Elite]                                                     |  1985   |   C64    |    ASM     | Ian Bell / David Braben |                                                                                                 |
 | Commando | 1985 | C64 (reconstruction) | ASM | Elite Systems | [Commando disassembly][Commando disassembly] |
@@ -159,6 +160,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [Duke2Reconstructed]: https://github.com/commercial-game-sources/duke2reconstructed
 [DXX-Rebirth]: https://github.com/dxx-rebirth/dxx-rebirth
 [ForsakenX]: https://github.com/ForsakenX/forsaken
+[Hunchback disassembly]: https://github.com/commercial-game-sources/hunchback/tree/master/Original
 [ioquake3]: https://github.com/ioquake/ioq3
 [iortcw]: https://github.com/iortcw/iortcw
 [Jazz² Resurrection]: https://github.com/commercial-game-sources/jazz2_native
