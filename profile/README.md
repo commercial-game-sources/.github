@@ -28,6 +28,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Catacomb][Catacomb]                                               |  1990   |    PC    | Pascal/ASM |       Softdisk        |                                                                                                   |
 | [Atomic Robo-Kid][Atomic Robo-Kid]                                 |  1990   |   C64    |    ASM     |   Software Studios    |                                                                                                 |
 | Prince of Persia | 1990 | PC (reconstruction) | C | Brøderbund Software | [SDLPoP][SDLPoP] |
+| Stunts (4D Sports Driving) | 1990/10 | PC (reconstruction) | C/ASM | Distinctive Software | [Restunts][Restunts] |
 | [Catacomb II (The Catacomb)][Catacomb II (The Catacomb)]           |  1991   |    PC    |   C/ASM    |       Softdisk        |                                    [CatacombSDL][CatacombSDL]                                     |
 | [Hovertank 3D][Hovertank 3D]                                       | 1991/04 |    PC    |   C/ASM    |      id Software      |                              [SDL Hovertank 3-D][SDL Hovertank 3-D]                               |
 | [Commander Keen in Keen Dreams][Commander Keen in Keen Dreams]     |  1991   |    PC    |   C/ASM    |      id Software      |                  [Keen Dreams SDL2]<br/>[Reflection Keen Dreams][ReflectionHLE]                   |
@@ -179,6 +180,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 [rawgl]: https://github.com/commercial-game-sources/rawgl
 [ReflectionHLE]: https://github.com/ReflectionHLE/ReflectionHLE
 [REminiscence]: https://github.com/commercial-game-sources/reminiscence
+[Restunts]: https://github.com/commercial-game-sources/restunts
 [RigelEngine]: https://github.com/lethal-guitar/RigelEngine
 [ROGUEPC]: https://github.com/MestreLion/roguepc
 [ROTT Port]: https://github.com/fabiangreffrath/rott
