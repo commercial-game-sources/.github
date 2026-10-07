@@ -17,6 +17,7 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Rogue][Rogue]                                                     |  1983   |    PC    |   C/ASM    |      A.I. Design      |                                        [ROGUEPC][ROGUEPC]                                         |
 | Digger                                                             |  1983   |    PC    |    ASM     |   Windmill Software   |                              [Digger Remastered][Digger Remastered]                               |
 | Hunchback | 1983 | C64 (reconstruction) | ASM | Ocean Software | [Hunchback disassembly][Hunchback disassembly] |
+| Boulder Dash | 1984 | C64 (reconstruction) | ASM | First Star Software | [Boulder Dash disassembly][Boulder Dash disassembly] |
 | [Willy the Worm][Willy the Worm]                                   | 1985/06 |    PC    |   Pascal   |      Alan Farmer      |                                                                                                   |
 | [Elite][Elite]                                                     |  1985   |   C64    |    ASM     | Ian Bell / David Braben |                                                                                                 |
 | Commando | 1985 | C64 (reconstruction) | ASM | Elite Systems | [Commando disassembly][Commando disassembly] |
@@ -87,6 +88,8 @@ Release dates refer to the listed platform and use `YYYY/MM` where the month is 
 | [Thirty Flights of Loving][Thirty Flights of Loving] | 2012/08 | PC | C/ASM | Blendo Games | |
 | [Doom 3: BFG Edition][Doom 3: BFG Edition] | 2012/10 | PC | C++/ASM | id Software | |
 | [Amnesia: A Machine For Pigs][Amnesia: A Machine For Pigs]         | 2013/09 |    PC    |    C++     |   Frictional Games    |                                                                                                   |
+
+Boulder Dash is represented by a commented C64 disassembly for research, with its annotations, generation scripts and archived listing; a complete rebuild has not been established. The [readable listing](https://www.retrointernals.org/boulder-dash/boulder-dash-disassembly.html) is published by the author.
 
 Maniac Mansion is represented by a commented C64 engine and disk-loader disassembly for research; a complete rebuild has not been established. The separate [game-script disassembly](https://github.com/segrax/Maniac.Mansion.Disassembly) documents the game logic.
 
@@ -159,6 +162,7 @@ SimCity is represented by the Unix/X11 source lineage released as Micropolis; it
 <!-- Convenient ports, reconstructions, reimplementations and remakes; keep in alphabetic order -->
 
 [Beneath a Steel Sky Remastered]: https://web.archive.org/web/20110927222706/http://revolution.co.uk/?page_id=5&game_id=8&platform_id=0
+[Boulder Dash disassembly]: https://github.com/commercial-game-sources/boulder_dash
 [BStone]: https://github.com/bibendovsky/bstone
 [Bumpy's Arcade Fantasy reconstruction]: https://github.com/commercial-game-sources/bumpy_arcade_fantasy
 [CatacombSDL]: https://github.com/Blzut3/CatacombSDL
